@@ -1,0 +1,9 @@
+{
+  "sites": [
+    {
+      "slug": "microscopic-breakfast-noisy",
+      "distDir": "./",
+      "buildCommand": "pnpm build"
+    }
+  ]
+}
